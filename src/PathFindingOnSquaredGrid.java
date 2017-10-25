@@ -2,10 +2,6 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-/*************************************************************************
- * Author: Dr E Kapetanios Last update: 22-02-2017
- *
- *************************************************************************/
 
 public class PathFindingOnSquaredGrid {
 
